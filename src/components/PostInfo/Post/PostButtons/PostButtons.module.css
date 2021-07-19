@@ -1,0 +1,26 @@
+.button {
+	width: 125px;
+	height: 50px;
+	font-size: 18px;
+	color: white;
+	border-radius: 5px;
+	border: 2px solid;
+	font-family: 'Bebas Neue', cursive;
+	padding: 14px 15px;
+	cursor: pointer;
+}
+
+.button:hover {
+	cursor: pointer;
+}
+
+.buttonLike {
+	background: greenyellow;
+	margin-top: 20px;
+	margin-right: 10px;
+}
+
+.buttonDislike {
+	background: tomato;
+	margin-bottom: 40px;
+}

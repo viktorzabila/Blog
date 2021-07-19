@@ -1,0 +1,54 @@
+.wrapper {
+	display: flex;
+}
+
+.wrapper img {
+	width: 50px;
+	height: 50px;
+}
+
+.message {
+	font-size: 16px;
+}
+
+.likes {
+	font-size: 16px;
+}
+
+.profile {
+	margin-bottom: 30px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.profileMarginRight {
+	margin-right: 20px;
+}
+
+.button {
+	width: 250px;
+	height: 50px;
+	font-size: 18px;
+	color: white;
+	border-radius: 5px;
+	border: 2px solid;
+	font-family: 'Bebas Neue', cursive;
+	padding: 14px 15px;
+	cursor: pointer;
+}
+
+.button:hover {
+	background: blue;
+}
+
+.buttonEdit {
+	background-color: purple;
+	margin-bottom: 20px;
+}
+
+.buttonDelete {
+	background-color: red;
+	margin-bottom: 20px;
+	margin-top: 10px;
+}

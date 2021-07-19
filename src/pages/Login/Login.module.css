@@ -1,0 +1,47 @@
+.wrap {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 50px;
+}
+
+.container {
+	padding: 60px 84px 72px;
+    border: 1px solid #eaeced;
+}
+
+input {
+	width: 370px;
+	font-size: 18px;
+	min-height: 44px;
+}
+
+.inputSecond {
+	margin-bottom: 50px;
+}
+
+.title {
+	font-size: 20px;
+	text-align: center;
+	margin-bottom: 40px;
+}
+
+.subtitle {
+	margin-bottom: 15px;
+	margin-top: 0px;
+}
+
+.inputFirst {
+	margin-bottom: 40px;
+}
+
+.button {
+	width: 380px;
+    background-color: #0070ba;
+    min-height: 44px;
+	font-size: 18px;
+	border-radius: 4px;
+	font-family: 'Bebas Neue', cursive;
+	color: white;
+	margin-top: 20px;
+}
